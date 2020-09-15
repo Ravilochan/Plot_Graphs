@@ -1,6 +1,6 @@
 # Plotting polynomial function in Python
 
-## what is polynomial functions ?
+## What is polynomial functions ?
 
 Polynomial functions are among the simplest, most important, and most commonly used mathematical functions. These functions consist of one or more terms of variables with whole number exponents
 
@@ -21,22 +21,39 @@ f(x) = 4x²− 2x− 4
 
 This is called as a quadratic.which is a polynomial of degree 2, as 2 is the highest power of x.
 lets plot simple function using python
-ex : f(x) = x ² — 2x + 5
+
+ex :
+
+```bash
+ f(x) = x ² — 2x + 5
+```
 
 ### Prerequisites
 
 ● numy
+
 ● matplotlib
 
 ![alt text](https://miro.medium.com/max/745/1*6AMLkw_Ss2GWLgWP3OFsOg.png)
 
 The graph shows for this function
+
 ![alt text](https://miro.medium.com/max/875/1*0N8vLYidQunSNNYcIfrxQw.png)
+
 Lets see another complex polynomial function
-ex : f(x) = x ³— 3x³ — 35x²+39x + 70
+
+ex :
+
+```bash
+ f(x) = x ³— 3x³ — 35x²+39x + 70
+```
+
 ![alt text](https://miro.medium.com/max/825/1*dULctZEY2M2b9zsmJRS-IA.png)
+
 this how the graph shows for this function
+
 ![alt text](https://miro.medium.com/max/875/1*TFDFQHZ2Z4A2S8ntCtRJbg.png)
+
 This is how basic plotting polynomial using python lets see another artical for advance polynomial functions
 
 ## What is this Graph Plotting ?
@@ -46,7 +63,9 @@ This graph depicts the density of state with varying value of "a" from the Subje
 Here we are plotting the density of state graph with varying value of "a" such as 2 A , 5 A , 10 A all in one Graph.
 
 Here we plot the graph in Python with help of
+
 ● numy
+
 ● matplotlib
 
 ## Source of Graph plotting:
